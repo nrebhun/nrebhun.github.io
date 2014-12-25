@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Nick! I am currently a student at CSU East Bay, studying Computer Science.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I enjoy making games, and participate in Ludum Dare as frequently as I can! My first hackathon was Hack for Change 2012, where I assisted with the creation of LivePort. You can see more about my projects in the so-named page of my site (once I'm finished with it).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I love my girlfriend, Gabby, very much!
