@@ -1,10 +1,12 @@
 # Site settings
-title: Super Catchy Title!
+title: Welcome!
 email: nrfactor@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Welcome to my website! This is currently under some serious construction while I teach myself how to properly utilize Jekyll, Markdown, and Github Pages... so pardon our dust!
+ Thank you for visiting my site! Currently, this is under some serious construction while I teach myself
+ how to properly utilize Jekyll, Markdown, and GitHub Pages!
+ I encourage you to check out my Projects page, to see some of the stuff I'm working / have worked on!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nickrebhun.com" # the base hostname & protocol for your site
+url: "http://nrebhun.com" # the base hostname & protocol for your site
 twitter_username: nrfactor
 github_username:  nrfactor
 
