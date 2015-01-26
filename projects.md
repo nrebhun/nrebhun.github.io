@@ -16,6 +16,7 @@ with a poorly-constructed ASCII universe. Day three brought a GUI into the mix, 
 significant optimization to the game. Conway's Game of Life, while relatively simple, was a fun
 problem to solve!
 
+<!---
 ## Introduction to Computer Science
 ---
 
@@ -30,6 +31,7 @@ from a club in high school, and despite spending the second year as president of
 consider public speaking one of my strong suits.
 
 Feel free to [download the slides] from my personal Dropbox!
+-->
 
 ## Ludum Dare 30
 ---
