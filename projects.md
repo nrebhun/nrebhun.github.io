@@ -4,10 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-## BATTLEHACK LOS ANGELES
+## BattleHack Los Angeles
 ---
 
-#### **TBD** | *28 February 2015* | Santa Monica, CA
+#### **TBD** | *28 February 2015 - 1 March 2015* | Santa Monica, CA
 
 Details after the fact!
 
