@@ -139,6 +139,7 @@ Check out [LivePort on GitHub]!
 [Earth<->Krethys on GitHub]: https://github.com/NRFACTOR/Earth-Krethys
 
 <!--- Research Project -->
+[Rate My Professors]: http://www.ratemyprofessors.com
 [Beautiful Soup]: http://www.crummy.com/software/BeautifulSoup/
 [SQLite]: https://sqlite.org
 
