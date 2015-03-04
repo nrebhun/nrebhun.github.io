@@ -18,6 +18,8 @@ Despite deciding to axe our project at the very end of the competition, I had a 
 learned tons. Ultimately, this project was agreat learning experience, and I came away from the
 event with an idea I hope to pursue and build upon in the future.
 
+Check out [charitable.com on GitHub]
+
 ## Conway's Game of Life
 ---
 
@@ -74,6 +76,10 @@ With oversight and mentoring from Dr. Ehsan Kamalinejad, Professor of Mathematic
 and alongside Anthony Becker ([@b_cker]), the purpose of this research work is to explore the realm
 of Artificial Intelligence and Machine Learning, and their real-world applications.
 
+Currently, I am working purely with Dr. Kamalinejad on a utility which gathers data from [Rate My
+Professors] and tries to predict whether or not you will enjoy taking a course with a professor.
+At the moment, I am utilizing  Python, [Beautiful Soup], and [SQLite] to retrieve and store data.
+
 ## GameGame, the Game
 ---
 
@@ -120,14 +126,26 @@ Check out [LivePort on GitHub]!
 [@FredericJacobs]: https://twitter.com/FredericJacobs
 
 <!--- Websites / Project links! -->
+
+<!--- BattleHack Los Angeles 2105 -->
 [Braintree]: https://www.braintreepayments.com
+[charitable.com on GitHub]: https://github.com/NRFACTOR/charitable.com
+
+<!--- Apple Lecture -->
 [download the slides]: https://www.dropbox.com/sh/qxalap2n5j07vgn/AAAMjSHV83sr5Xy2gdD_9j16a?dl=1
 
+<!--- LD30 -->
 [Earth<->Krethys]: https://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=41673
 [Earth<->Krethys on GitHub]: https://github.com/NRFACTOR/Earth-Krethys
 
+<!--- Research Project -->
+[Beautiful Soup]: http://www.crummy.com/software/BeautifulSoup/
+[SQLite]: https://sqlite.org
+
+<!--- GameGame the Game -->
 [GameGame, the Game on Github]: https://github.com/NRFACTOR/Gamegame
 
+<!--- Hack for Change 2012 -->
 [Hack for Change]: https://hackforchange.org/
 [Change.org]: https://change.org/
 [half a dozen extremely talented people]: https://twitter.com/liveporting/status/229735173120458752
