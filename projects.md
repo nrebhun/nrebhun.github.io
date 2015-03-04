@@ -7,9 +7,16 @@ permalink: /projects/
 ## BattleHack Los Angeles
 ---
 
-#### **TBD** | *28 February 2015 - 1 March 2015* | Santa Monica, CA
+#### **HTML5, JavaScript, JSON** | *28 February 2015 - 1 March 2015* | Santa Monica, CA
 
-Details after the fact!
+This event, organized by [Braintree], was a blast. Going into the hackathon without a team, I knew
+that I would face challenges. After forming a team with some colleagues from school (who I was not
+expecting to be there) we got to work hashing out ideas. Eventually, we decided on building a web
+platform designed to assist non-profits in connecting with their target audience. 
+
+Despite deciding to axe our project at the very end of the competition, I had a great time and
+learned tons. Ultimately, this project was agreat learning experience, and I came away from the
+event with an idea I hope to pursue and build upon in the future.
 
 ## Conway's Game of Life
 ---
@@ -113,6 +120,7 @@ Check out [LivePort on GitHub]!
 [@FredericJacobs]: https://twitter.com/FredericJacobs
 
 <!--- Websites / Project links! -->
+[Braintree]: https://www.braintreepayments.com
 [download the slides]: https://www.dropbox.com/sh/qxalap2n5j07vgn/AAAMjSHV83sr5Xy2gdD_9j16a?dl=1
 
 [Earth<->Krethys]: https://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=41673
