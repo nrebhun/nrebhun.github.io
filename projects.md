@@ -129,14 +129,14 @@ Check out [LivePort on GitHub]!
 
 <!--- BattleHack Los Angeles 2105 -->
 [Braintree]: https://www.braintreepayments.com
-[charitable.com on GitHub]: https://github.com/NRFACTOR/charitable.com
+[charitable.com on GitHub]: https://github.com/nrebhun/charitable.com
 
 <!--- Apple Lecture -->
 [download the slides]: https://www.dropbox.com/sh/qxalap2n5j07vgn/AAAMjSHV83sr5Xy2gdD_9j16a?dl=1
 
 <!--- LD30 -->
 [Earth<->Krethys]: https://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=41673
-[Earth<->Krethys on GitHub]: https://github.com/NRFACTOR/Earth-Krethys
+[Earth<->Krethys on GitHub]: https://github.com/nrebhun/Earth-Krethys
 
 <!--- Research Project -->
 [Rate My Professors]: http://www.ratemyprofessors.com
@@ -144,7 +144,7 @@ Check out [LivePort on GitHub]!
 [SQLite]: https://sqlite.org
 
 <!--- GameGame the Game -->
-[GameGame, the Game on Github]: https://github.com/NRFACTOR/Gamegame
+[GameGame, the Game on Github]: https://github.com/nrebhun/Gamegame
 
 <!--- Hack for Change 2012 -->
 [Hack for Change]: https://hackforchange.org/

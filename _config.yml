@@ -1,6 +1,6 @@
 # Site settings
 title: Welcome!
-email: nrfactor@gmail.com
+email: nrebhun@nrebhun.com
 description: > # this means to ignore newlines until "baseurl:"
  Thank you for visiting my site! Currently, this is under some serious construction while I teach myself
  how to properly utilize Jekyll, Markdown, and GitHub Pages!
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nrebhun.com" # the base hostname & protocol for your site
 twitter_username: nrfactor
-github_username:  nrfactor
+github_username:  nrebhun
 
 # Build settings
 markdown: kramdown
