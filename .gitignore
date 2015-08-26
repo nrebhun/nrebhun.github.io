@@ -1,1 +1,6 @@
 _site/
+.sass-cache
+
+# OS-specific #
+###############
+.DS_Store
