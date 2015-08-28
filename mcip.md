@@ -4,4 +4,4 @@ title: MCIP
 permalink: /mcip/
 ---
 
-This is a secret place... written by the script
+This is a secret place... written by the script AGAIN
