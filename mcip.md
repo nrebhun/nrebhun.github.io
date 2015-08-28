@@ -4,4 +4,5 @@ title: MCIP
 permalink: /mcip/
 ---
 
-This is a secret place... written by the script AGAIN
+System Time: 2015-08-27 18:25:59.013139 
+Address: 134.154.53.118
