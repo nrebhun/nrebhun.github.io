@@ -4,6 +4,6 @@ title: MCIP
 permalink: /mcip/
 ---
 
-System Time: 2015-08-27 18:28:12.879918
+System Time: 2015-08-28 07:35:55.746409
 
-Address: 134.154.53.118
+Address: 50.161.35.8
