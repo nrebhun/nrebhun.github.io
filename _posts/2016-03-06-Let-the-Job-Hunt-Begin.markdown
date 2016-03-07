@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Degree Acquired: Let the Job Hunt Begin"
-date: 2015-03-06 21:36:14
+date: 2016-03-06 21:36:14
 categories: website update
 ---
 
