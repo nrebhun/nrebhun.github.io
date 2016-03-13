@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<img style="
+    max-width: 35%;
+    float: right;
+    height: auto" 
+    src="/assets/pic1.png"> 
 Hi, I'm Nick! I have been programming since I was 16, and am currently a student at CSU East Bay. I
 anticipate graduating with a Bachelor of Science degree in Computer Science by Winter 2015!
 
