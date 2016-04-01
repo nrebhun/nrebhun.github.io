@@ -59,7 +59,7 @@ solo) or 72-hour (relaxed, group) game development hackathon, I viewed Ludum Dar
 put my rapid development skills to the test.
 
 Teaming up with the invaluable Anthony Becker ([@b_cker]) and the
-indispensable Bethany Barker ([@BethhhJB]), [Earth<->Krethys] was born. A 2-D platformer with a
+indispensable Bethany Barker ([@BethhhJB]), Earth<->Krethys was born. A 2-D platformer with a
 twist; as Kale you have the ability to traverse between two parallel but vastly differing worlds,
 and use this unique skill to complete each level.
 
@@ -135,7 +135,6 @@ Check out [LivePort on GitHub]!
 [download the slides]: https://www.dropbox.com/sh/qxalap2n5j07vgn/AAAMjSHV83sr5Xy2gdD_9j16a?dl=1
 
 <!--- LD30 -->
-[Earth<->Krethys]: https://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=41673
 [Earth<->Krethys on GitHub]: https://github.com/nrebhun/Earth-Krethys
 
 <!--- Research Project -->
