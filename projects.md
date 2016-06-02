@@ -4,6 +4,51 @@ title: Projects
 permalink: /projects/
 ---
 
+## Adventure Assistant
+---
+
+#### **ES6 with React, Node, Karma, others** | *February 2016 - Present*
+
+Adventure Assistant is an ongoing, multipurpose personal project. One goal of this
+currently-web-based tool is to, for tabletop RPGs such as Dungeons & Dragons, reduce the amount of
+time spent pausing gameplay to handle necessary bookkeeping with pencil and paper. Based on my
+experience and expectations of these kinds of games, I feel that a primary objective is immersive
+storytelling, and the regular interuptions of normal. I plan to eventually add a section of my
+website dedicated to explaining Adventure Assistant in greater detail.
+
+In the meantime, check out [Adventure Assistant on GitHub]
+
+
+<!-- Turn into a Post at a later date
+I began a campaign with some friends relatively recently (just shy of a year before beginning work
+on Adventure Assistant) and found that I mostly enjoyed the storytelling aspect of the game.
+Realism, as silly as it might sound for a fantasy world, I have found is fairly crucial for me to
+feel fully immersed in the game. Hauling around thousands of coins of varying metal without
+consequence, while convenient, made very little sense to me, for example.
+-->
+
+## An Hour of Code
+---
+
+#### **Scratch, Python** | *December 2015* | Apple Store, Berkeley, CA
+
+An Hour of Code is an annual worldwide event encouraging young people to dive into the world of
+coding. Promoted by many companies and individuals in the tech industry, the events origins lie in a
+relatively new organzation, [Code.org]. In 2013 I was inspired enough to host my own hour of code
+via YouTube streaming, but shortly after posting the video to my channel I removed it, realizing
+only afterward that I had not downloaded a copy of the video.
+
+Luckily, I got another shot, and even had the support of Apple, as I had the opportunity in the 2015
+Hour of Code to teach kids the fundamentals of programming on behalf of Apple! It was an incredibly
+fulfilling experience. Children as young as three (with surprisingly minimal guidance from their
+nearby parents/guardians) seemed not only to understand the concepts in the carefully crafted form
+in which the information was presented, but also deeply enjoy the activities provided by Code.org.
+
+Some of the older children had participated in similar events in the past, and with them I and my
+co-instructors were able to dive a little deeper, breaking down more complex analytical problems
+while learning the fundamentals of Python.
+
+
 ## BattleHack Los Angeles
 ---
 
@@ -25,14 +70,13 @@ Check out [charitable.com on GitHub]
 
 #### **Java** | *10 January 2015 - 14 January 2015*
 
-This personal project is one I had been meaning to get around to for a while. Naturally I decided my
+The Game of Life is one I had been meaning to get around to for a while. Naturally I decided my
 birthday would be a great day to start a new project. Day one included very little productivity,
 however by day two I had a functioning game which relied on the command line to convey game data,
 with a poorly-constructed ASCII universe. Day three brought a GUI into the mix, and day four brought
 significant optimization to the game. Conway's Game of Life, while relatively simple, was a fun
 problem to solve!
 
-<!---
 ## Introduction to Computer Science
 ---
 
@@ -41,13 +85,12 @@ problem to solve!
 A lecture taught by yours truly, to a few dozen Apple employees! My primary goal was to provide both
 a deeper understanding of computer hardware and software, and give an overview of the programming
 process, with a brief live demonstration of some simple scripting in Swift. Overall an awesome
-experience, this opportunity helped strengthen my own existing knowledge of the topics discussed,
+experience, this opportunity strengthened my own existing knowledge of the topics discussed,
 and helped to improve my public speaking skills. Despite having two years of experience with improv,
-from a club in high school, and despite spending the second year as president of said club, I don't
+from a club in high school, and despite spending the second year as president of said group, I don't
 consider public speaking one of my strong suits.
 
 Feel free to [download the slides] from my personal Dropbox!
--->
 
 ## Ludum Dare 30
 ---
@@ -70,15 +113,16 @@ Check out [Earth<->Krethys on GitHub]!
 ## Machine Learning Research Project
 ---
 
-#### **Python, C++, MatLab, Java** | *April 2014 - Present*
+#### **Python, C++, MatLab, Java** | *April 2014 - March 2015*
 
 With oversight and mentoring from Dr. Ehsan Kamalinejad, Professor of Mathematics at CSU East Bay,
 and alongside Anthony Becker ([@b_cker]), the purpose of this research work is to explore the realm
 of Artificial Intelligence and Machine Learning, and their real-world applications.
 
-Currently, I am working purely with Dr. Kamalinejad on a utility which gathers data from [Rate My
-Professors] and tries to predict whether or not you will enjoy taking a course with a professor.
-At the moment, I am utilizing  Python, [Beautiful Soup], and [SQLite] to retrieve and store data.
+I worked primarily with Dr. Kamalinejad on a utility which gathers data from [Rate My Professors]
+and tries to predict whether or not you will enjoy taking a course with a professor. The 
+technologies utilized include Python, [Beautiful Soup], and [SQLite] for data collection and 
+storage.
 
 ## GameGame, the Game
 ---
@@ -86,7 +130,7 @@ At the moment, I am utilizing  Python, [Beautiful Soup], and [SQLite] to retriev
 #### **C++** | *August 2013 - December 2013*
 
 One of my first large-scale* personal projects, my objective with this oh-so-creatively-named
-text-based adventure game  was to familiarize myself with the language. Having moved from Southern
+text-based adventure game was to familiarize myself with the language. Having moved from Southern
 California, and a community college which favored Java, to Northern California and CSU East Bay
 (which favors C++) I deemed it necessary to give myself a self-driven primer of the latter of the
 languages. This project was a valuable introduction to both the importance of personal projects, and
@@ -117,8 +161,10 @@ Our submission took home an API award from [tokbox], for best use of their OpenT
 
 Check out [LivePort on GitHub]!
 
-## Check back soon, for more!
 ---
+
+##### Last updated June 2016
+
 
 <!--- People! -->
 [@b_cker]: https://twitter.com/b_cker
@@ -127,7 +173,13 @@ Check out [LivePort on GitHub]!
 
 <!--- Websites / Project links! -->
 
-<!--- BattleHack Los Angeles 2105 -->
+<!--- Adventure Assistant -->
+[Adventure Assistant on GitHub]: https://github.com/nrebhun/AdventureAssistant
+
+<!--- Hour of Code 2015 -->
+[Code.org]: https://www.code.org
+
+<!--- BattleHack Los Angeles 2015 -->
 [Braintree]: https://www.braintreepayments.com
 [charitable.com on GitHub]: https://github.com/nrebhun/charitable.com
 

@@ -8,9 +8,9 @@ permalink: /about/
     float: right;
     height: auto" 
     src="/assets/pic1.png"> 
-Hi, I'm Nick! I have been programming since I was 16, **recently graduated
-from CSU East Bay, with a B.S. in Computer Science**, and am now on the hunt
-for a career in my field.
+Hi, I'm Nick! I have been programming since I was 16, **recently graduated from CSU East Bay, with a
+B.S. in Computer Science**, and recently began my adventure with an internship with [Dun &
+Bradstreet] as an Automation Engineer.
 
 I have a deep interest for all areas of science, though I find physics particularly exciting!
 I also enjoy making games, and participate in Ludum Dare as frequently as I can! My first hackathon
@@ -18,3 +18,6 @@ was Hack for Change 2012, where I assisted with the creation of LivePort. You ca
 projects in the so-named page of my site.
 
 I love my girlfriend Gabby very much!
+
+<!-- Links -->
+[Dun & Bradstreet]: http://www.dnb.com/
