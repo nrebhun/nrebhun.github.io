@@ -33,7 +33,7 @@ consequence, while convenient, made very little sense to me, for example.
 #### **Scratch, Python** | *December 2015* | Apple Store, Berkeley, CA
 
 An Hour of Code is an annual worldwide event encouraging young people to dive into the world of
-coding. Promoted by many companies and individuals in the tech industry, the events origins lie in a
+coding. Promoted by many companies and individuals in the tech industry, the event's origins lie in a
 relatively new organzation, [Code.org]. In 2013 I was inspired enough to host my own hour of code
 via YouTube streaming, but shortly after posting the video to my channel I removed it, realizing
 only afterward that I had not downloaded a copy of the video.
@@ -44,9 +44,9 @@ fulfilling experience. Children as young as three (with surprisingly minimal gui
 nearby parents/guardians) seemed not only to understand the concepts in the carefully crafted form
 in which the information was presented, but also deeply enjoy the activities provided by Code.org.
 
-Some of the older children had participated in similar events in the past, and with them I and my
-co-instructors were able to dive a little deeper, breaking down more complex analytical problems
-while learning the fundamentals of Python.
+Some of the older children had participated in similar events in the past, and with them my co-instructors and I
+were able to dive a little deeper, breaking down more complex analytical problems while learning the
+fundamentals of Python.
 
 
 ## BattleHack Los Angeles
