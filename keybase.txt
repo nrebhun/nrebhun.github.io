@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/nrebhun
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.nrebhun.com
+    * I am nrebhun (https://keybase.io/nrebhun) on keybase.
+      * I have a public key ASAq8iyLellJ74aUxFBrjRfJaFydGDXF1-KoWSzzcP1GtQo
+
+      To do so, I am signing this object:
+
+      {
+                  "body": {
+                                  "key": {
+                                                      "eldest_kid":
+                                                      "01202af22c8b7a5949ef8694c4506b8d17c9685c9d1835c5d7e2a8592cf370fd46b50a",
+                                                                  "host": "keybase.io",
+                                                                              "kid":
+                                                                              "01202af22c8b7a5949ef8694c4506b8d17c9685c9d1835c5d7e2a8592cf370fd46b50a",
+                                                                                          "uid":
+                                                                                          "33293c1afcf3ebd73a8f2c997e011819",
+                                                                                                      "username":
+                                                                                                      "nrebhun"
+                                                                                                              },
+                                                                                                                      "service":
+                                                                                                                      {
+                                                                                                                                          "hostname":
+                                                                                                                                          "www.nrebhun.com",
+                                                                                                                                                      "protocol":
+                                                                                                                                                      "http:"
+                                                                                                                                                              },
+                                                                                                                                                                      "type":
+                                                                                                                                                                      "web_service_binding",
+                                                                                                                                                                              "version":
+                                                                                                                                                                              1
+                                                                                                                                                                                  },
+                                                                                                                                                                                      "client":
+                                                                                                                                                                                      {
+                                                                                                                                                                                                      "name":
+                                                                                                                                                                                                      "keybase.io
+                                                                                                                                                                                                      go
+                                                                                                                                                                                                      client",
+                                                                                                                                                                                                              "version":
+                                                                                                                                                                                                              "1.0.16"
+                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                      "ctime":
+                                                                                                                                                                                                                      1470977375,
+                                                                                                                                                                                                                          "expire_in":
+                                                                                                                                                                                                                          504576000,
+                                                                                                                                                                                                                              "merkle_root":
+                                                                                                                                                                                                                              {
+                                                                                                                                                                                                                                              "ctime":
+                                                                                                                                                                                                                                              1470977286,
+                                                                                                                                                                                                                                                      "hash":
+                                                                                                                                                                                                                                                      "33f9c294c2ae8c079bd0be5eac6fa4d190dd122e02432372ab14af2c523190b105687fa812ab6b43ff4e0f5e425034b0509649bba79e1d517c6a78633efdc105",
+                                                                                                                                                                                                                                                              "seqno":
+                                                                                                                                                                                                                                                              572737
+                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                      "prev":
+                                                                                                                                                                                                                                                                      "753131710a62911708b2633ede0cba3de7eaecd6d75b0241ca412a320eaa5a20",
+                                                                                                                                                                                                                                                                          "seqno":
+                                                                                                                                                                                                                                                                          8,
+                                                                                                                                                                                                                                                                              "tag":
+                                                                                                                                                                                                                                                                              "signature"
+      }
+
+      which yields the signature:
+
+      hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKvIsi3pZSe+GlMRQa40XyWhcnRg1xdfiqFks83D9RrUKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmFmMjJjOGI3YTU5NDllZjg2OTRjNDUwNmI4ZDE3Yzk2ODVjOWQxODM1YzVkN2UyYTg1OTJjZjM3MGZkNDZiNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmFmMjJjOGI3YTU5NDllZjg2OTRjNDUwNmI4ZDE3Yzk2ODVjOWQxODM1YzVkN2UyYTg1OTJjZjM3MGZkNDZiNTBhIiwidWlkIjoiMzMyOTNjMWFmY2YzZWJkNzNhOGYyYzk5N2UwMTE4MTkiLCJ1c2VybmFtZSI6Im5yZWJodW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5ucmViaHVuLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzA5NzczNzUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDk3NzI4NiwiaGFzaCI6IjMzZjljMjk0YzJhZThjMDc5YmQwYmU1ZWFjNmZhNGQxOTBkZDEyMmUwMjQzMjM3MmFiMTRhZjJjNTIzMTkwYjEwNTY4N2ZhODEyYWI2YjQzZmY0ZTBmNWU0MjUwMzRiMDUwOTY0OWJiYTc5ZTFkNTE3YzZhNzg2MzNlZmRjMTA1Iiwic2Vxbm8iOjU3MjczN30sInByZXYiOiI3NTMxMzE3MTBhNjI5MTE3MDhiMjYzM2VkZTBjYmEzZGU3ZWFlY2Q2ZDc1YjAyNDFjYTQxMmEzMjBlYWE1YTIwIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RADuIr5c8GFhCsc32wcEbEyGhr/fkjxb1NV2D9ZZJ5PY/GrefrRydAwWFRO1czNuUQsH74/w2rG/XoiLAtvTxMA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIhEpgg4ucKRDwliJtFHLNSVrrCmUFf3zfKgjSAhVObEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+      And finally, I am proving ownership of this host by posting or
+      appending to this document.
+
+      View my publicly-auditable identity here: https://keybase.io/nrebhun
+
+      ==================================================================
