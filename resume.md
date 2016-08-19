@@ -5,7 +5,7 @@ permalink: /Resume/
 ---
 #### Click [here](/assets/res1-7p.pdf) to download as pdf.
 
-![res1-7p.pdf](/assets/res1-7p.pdf)
+![res1-7p.png](/assets/res1-7p.png)
 
 ---
 
