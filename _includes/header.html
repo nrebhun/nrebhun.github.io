@@ -16,7 +16,9 @@
         {% for page in site.pages %}
           {% if page.title %}
             {% if page.title != "MCIP" %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+              {% if page.title != "Christmas" %}
+                <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+              {% endif %}
             {% endif %}
           {% endif %}
         {% endfor %}
