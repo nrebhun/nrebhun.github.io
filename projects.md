@@ -10,11 +10,11 @@ permalink: /projects/
 #### **ES6 with React, Node, Karma, others** | *February 2016 - Present*
 
 Adventure Assistant is an ongoing, multipurpose personal project. One goal of this
-currently-web-based tool is to, for tabletop RPGs such as Dungeons & Dragons, reduce the amount of
+currently-web-based tool is, for tabletop RPGs such as Dungeons & Dragons, to reduce the amount of
 time spent pausing gameplay to handle necessary bookkeeping with pencil and paper. Based on my
 experience and expectations of these kinds of games, I feel that a primary objective is immersive
-storytelling, and the regular interuptions of normal. I plan to eventually add a section of my
-website dedicated to explaining Adventure Assistant in greater detail.
+storytelling. I plan to eventually add a section of my website dedicated to explaining Adventure
+Assistant in greater detail.
 
 In the meantime, check out [Adventure Assistant on GitHub]
 
@@ -22,8 +22,8 @@ In the meantime, check out [Adventure Assistant on GitHub]
 <!-- Turn into a Post at a later date
 I began a campaign with some friends relatively recently (just shy of a year before beginning work
 on Adventure Assistant) and found that I mostly enjoyed the storytelling aspect of the game.
-Realism, as silly as it might sound for a fantasy world, I have found is fairly crucial for me to
-feel fully immersed in the game. Hauling around thousands of coins of varying metal without
+Silly as it might sound for a fantasy world, I have found a certain degree of realism is fairly
+crucial for my personal immersion. Hauling around thousands of coins of varying metal without
 consequence, while convenient, made very little sense to me, for example.
 -->
 
@@ -33,8 +33,8 @@ consequence, while convenient, made very little sense to me, for example.
 #### **Scratch, Python** | *December 2015* | Apple Store, Berkeley, CA
 
 An Hour of Code is an annual worldwide event encouraging young people to dive into the world of
-coding. Promoted by many companies and individuals in the tech industry, the event's origins lie in a
-relatively new organzation, [Code.org]. In 2013 I was inspired enough to host my own hour of code
+coding. Promoted by many companies and individuals in the tech industry, the event's origins lie in
+a relatively new organzation, [Code.org]. In 2013 I was inspired enough to host my own hour of code
 via YouTube streaming, but shortly after posting the video to my channel I removed it, realizing
 only afterward that I had not downloaded a copy of the video.
 
@@ -44,9 +44,9 @@ fulfilling experience. Children as young as three (with surprisingly minimal gui
 nearby parents/guardians) seemed not only to understand the concepts in the carefully crafted form
 in which the information was presented, but also deeply enjoy the activities provided by Code.org.
 
-Some of the older children had participated in similar events in the past, and with them my co-instructors and I
-were able to dive a little deeper, breaking down more complex analytical problems while learning the
-fundamentals of Python.
+Some of the older children had participated in similar events in the past, and with them my
+co-instructors and I were able to dive a little deeper, breaking down more complex analytical
+problems while learning the fundamentals of Python.
 
 
 ## BattleHack Los Angeles
@@ -57,13 +57,12 @@ fundamentals of Python.
 This event, organized by [Braintree], was a blast. Going into the hackathon without a team, I knew
 that I would face challenges. After forming a team with some colleagues from school (who I was not
 expecting to be there) we got to work hashing out ideas. Eventually, we decided on building a web
-platform designed to assist non-profits in connecting with their target audience. 
+platform designed to assist non-profits in connecting with their target audience.
 
 Despite deciding to axe our project at the very end of the competition, I had a great time and
-learned tons. Ultimately, this project was agreat learning experience, and I came away from the
+learned tons. Ultimately, this project was a great learning experience, and I came away from the
 event with an idea I hope to pursue and build upon in the future.
 
-Check out [charitable.com on GitHub]
 
 ## Conway's Game of Life
 ---
@@ -120,8 +119,8 @@ and alongside Anthony Becker ([@b_cker]), the purpose of this research work is t
 of Artificial Intelligence and Machine Learning, and their real-world applications.
 
 I worked primarily with Dr. Kamalinejad on a utility which gathers data from [Rate My Professors]
-and tries to predict whether or not you will enjoy taking a course with a professor. The 
-technologies utilized include Python, [Beautiful Soup], and [SQLite] for data collection and 
+and tries to predict whether or not you will enjoy taking a course with a professor. The
+technologies utilized include Python, [Beautiful Soup], and [SQLite] for data collection and
 storage.
 
 ## GameGame, the Game

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /Resume/
+permalink: /resume/
 ---
 #### Click [here](/assets/res1-91p.pdf) to download as pdf.
 
@@ -9,4 +9,4 @@ permalink: /Resume/
 
 ---
 
-###### Last Updated: April 2017
+###### v1.9.1; Last Updated: April 2017
