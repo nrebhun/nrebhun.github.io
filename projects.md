@@ -38,11 +38,12 @@ a relatively new organzation, [Code.org]. In 2013 I was inspired enough to host 
 via YouTube streaming, but shortly after posting the video to my channel I removed it, realizing
 only afterward that I had not downloaded a copy of the video.
 
-Luckily, I got another shot, and even had the support of Apple, as I had the opportunity in the 2015
-Hour of Code to teach kids the fundamentals of programming on behalf of Apple! It was an incredibly
-fulfilling experience. Children as young as three (with surprisingly minimal guidance from their
-nearby parents/guardians) seemed not only to understand the concepts in the carefully crafted form
-in which the information was presented, but also deeply enjoy the activities provided by Code.org.
+Luckily, I got another shot, as I had the opportunity in the 2015 Hour of Code
+to teach kids the fundamentals of programming on behalf of Apple! It was an
+incredibly fulfilling experience. Children as young as three (with surprisingly
+minimal guidance from their nearby parents/guardians) seemed not only to
+understand the concepts in the carefully crafted form in which the information
+was presented, but also deeply enjoy the activities provided by Code.org.
 
 Some of the older children had participated in similar events in the past, and with them my
 co-instructors and I were able to dive a little deeper, breaking down more complex analytical
@@ -164,39 +165,38 @@ Check out [LivePort on GitHub]!
 
 ##### Last updated June 2016
 
-
-<!--- People! -->
+[//]: # (People!)
 [@b_cker]: https://twitter.com/b_cker
 [@BethhhJB]: https://twitter.com/BethhhJB
 [@FredericJacobs]: https://twitter.com/FredericJacobs
 
-<!--- Websites / Project links! -->
+[//]: # (Websites / Project links!)
 
-<!--- Adventure Assistant -->
+[//]: # (Adventure Assistant)
 [Adventure Assistant on GitHub]: https://github.com/nrebhun/AdventureAssistant
 
-<!--- Hour of Code 2015 -->
+[//]: # (Hour of Code 2015)
 [Code.org]: https://www.code.org
 
-<!--- BattleHack Los Angeles 2015 -->
+[//]: # (BattleHack Los Angeles 2015)
 [Braintree]: https://www.braintreepayments.com
 [charitable.com on GitHub]: https://github.com/nrebhun/charitable.com
 
-<!--- Apple Lecture -->
+[//]: # (Apple Lecture)
 [download the slides]: https://www.dropbox.com/sh/qxalap2n5j07vgn/AAAMjSHV83sr5Xy2gdD_9j16a?dl=1
 
-<!--- LD30 -->
+[//]: # (LD30)
 [Earth<->Krethys on GitHub]: https://github.com/nrebhun/Earth-Krethys
 
-<!--- Research Project -->
+[//]: # (Research Project)
 [Rate My Professors]: http://www.ratemyprofessors.com
 [Beautiful Soup]: http://www.crummy.com/software/BeautifulSoup/
 [SQLite]: https://sqlite.org
 
-<!--- GameGame the Game -->
+[//]: # (GameGame the Game)
 [GameGame, the Game on Github]: https://github.com/nrebhun/Gamegame
 
-<!--- Hack for Change 2012 -->
+[//]: # (Hack for Change 2012)
 [Hack for Change]: https://hackforchange.org/
 [Change.org]: https://change.org/
 [half a dozen extremely talented people]: https://twitter.com/liveporting/status/229735173120458752

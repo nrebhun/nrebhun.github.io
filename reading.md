@@ -12,6 +12,7 @@ by publishing this list to my website, and updating it regularly.
 
 ## In-Progress
 - The Art of Unix Programming
+- The Cathedral and the Bazaar
 
 ## Future Reads
 - Introduction to Algorithms

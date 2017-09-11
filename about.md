@@ -20,5 +20,5 @@ projects in the so-named page of my site.
 
 I love my girlfriend Gabby very much!
 
-<!-- Links -->
+[//]: # (External Links)
 [Dun & Bradstreet]: http://www.dnb.com/

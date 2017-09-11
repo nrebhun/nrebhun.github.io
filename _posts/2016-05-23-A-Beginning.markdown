@@ -14,5 +14,5 @@ it will be the last Apple sees of me. My start date as an Automation Engineering
 Bradstreet] is June 15th, which gives me enough time to visit friends in the Bay Area and attend my
 graduation ceremony on June 12th before getting started.
 
-<!-- Links -->
+[//]: # (External Links)
 [Dun & Bradstreet]: http://www.dnb.com/

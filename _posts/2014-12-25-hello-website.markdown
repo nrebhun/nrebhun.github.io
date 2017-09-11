@@ -22,6 +22,7 @@ int fib(int n) {
 
 Okay! Cool! Now to publish!
 
+[//]: # (External Links)
 [facebook]:      https://facebook.com/nrfactor
 [twitter]:   @nrfactor
 [github]:   https://github.com/nrfactor
