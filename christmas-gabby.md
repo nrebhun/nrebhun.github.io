@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: _Christmas
 permalink: /Christmas/Gabby
 ---
 
