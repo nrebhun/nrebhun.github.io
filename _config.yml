@@ -4,12 +4,13 @@ home_title: "Home"
 contact_me: "Contact:"
 email: nick@nrebhun.com
 description: >
- Thanks for visiting my site!
- I encourage you to check out my Projects page, to see some of the stuff I'm working / have worked on!
+ Welcome, digital adventurer!
+ I encourage you to check out my Projects page!
 baseurl: ""
 url: "http://www.nrebhun.com"
 twitter_username: nrebhun_
 github_username:  nrebhun
+disclaimer: <h5>Any opinions expressed on this corner of the internet are my own, and don't necessarily represent those of my employer.</h5>
 
 # Build settings
 markdown: kramdown
