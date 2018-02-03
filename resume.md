@@ -10,4 +10,4 @@ permalink: /resume/
 
 ---
 
-###### v2; Last Updated: September 2017
+###### v2.1; Last Updated: February 2018

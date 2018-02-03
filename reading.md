@@ -11,13 +11,14 @@ these. With seemingly so little free time, I will give myself any extra reason t
 by publishing this list to my website, and updating it regularly.
 
 ## In-Progress
-- The Art of Unix Programming
-- The Cathedral and the Bazaar
+
+* The Art of Unix Programming
+* The Cathedral and the Bazaar
 
 ## Future Reads
-- Introduction to Algorithms
-- Design Patterns
-- The Pragmatic Programmer
-- The C Programming Language
-- The Art of Computer Programming
-- The Cathedral and the Bazaar
+
+* Introduction to Algorithms
+* Design Patterns
+* The Pragmatic Programmer
+* The C Programming Language
+* The Art of Computer Programming
