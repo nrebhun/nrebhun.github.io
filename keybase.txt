@@ -4,70 +4,81 @@ https://keybase.io/nrebhun
 
 I hereby claim:
 
-* I am an admin of http://www.nrebhun.com
-* I am nrebhun (https://keybase.io/nrebhun) on keybase.
-* I have a public key ASAq8iyLellJ74aUxFBrjRfJaFydGDXF1-KoWSzzcP1GtQo
+  * I am an admin of https://www.nrebhun.com
+  * I am nrebhun (https://keybase.io/nrebhun) on keybase.
+  * I have a public key with fingerprint A32A C0CB C8D7 483D FD5B  7712 269A 91E4 1A84 F7B3
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid":
-            "01202af22c8b7a5949ef8694c4506b8d17c9685c9d1835c5d7e2a8592cf370fd46b50a",
-            "host": "keybase.io",
-            "kid":
-            "01202af22c8b7a5949ef8694c4506b8d17c9685c9d1835c5d7e2a8592cf370fd46b50a",
-            "uid":
-            "33293c1afcf3ebd73a8f2c997e011819",
-            "username":
-            "nrebhun"
-        },
-        "service":
-        {
-            "hostname":
-            "www.nrebhun.com",
-            "protocol":
-            "http:"
-        },
-        "type":
-        "web_service_binding",
-        "version":
-        1
+  "body": {
+    "key": {
+      "eldest_kid": "01202af22c8b7a5949ef8694c4506b8d17c9685c9d1835c5d7e2a8592cf370fd46b50a",
+      "fingerprint": "a32ac0cbc8d7483dfd5b7712269a91e41a84f7b3",
+      "host": "keybase.io",
+      "key_id": "269a91e41a84f7b3",
+      "kid": "0101a712259b06f490c9062bc3f34f2e7d23c82a3f11fe6510fad75ee2db1cc4e1470a",
+      "uid": "33293c1afcf3ebd73a8f2c997e011819",
+      "username": "nrebhun"
     },
-    "client":
-    {
-        "name":
-        "keybase.io
-        go
-        client",
-        "version":
-        "1.0.16"
+    "merkle_root": {
+      "ctime": 1526426272,
+      "hash_meta": "4f65db2b98c0b5673ce91d79f89aba39d5780eb3e3efced1b45827fd3744e648",
+      "seqno": 2748232
     },
-    "ctime":
-    1470977375,
-    "expire_in":
-    504576000,
-    "merkle_root":
-    {
-        "ctime":
-        1470977286,
-        "hash":
-        "33f9c294c2ae8c079bd0be5eac6fa4d190dd122e02432372ab14af2c523190b105687fa812ab6b43ff4e0f5e425034b0509649bba79e1d517c6a78633efdc105",
-        "seqno":
-        572737
+    "revoke": {
+      "sig_ids": [
+        "63692dda24f5999abc5b19806cde3a923767e6fe2d153b44658363e339bbf8090f"
+      ]
     },
-    "prev":
-    "753131710a62911708b2633ede0cba3de7eaecd6d75b0241ca412a320eaa5a20",
-    "seqno":
-    8,
-    "tag":
-    "signature"
+    "service": {
+      "hostname": "www.nrebhun.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1526426294,
+  "expire_in": 157680000,
+  "prev": "cc46b74bed4db8b18559d4b2da304b9c8ef5cc45816300848ae3d01e8956ff4b",
+  "seqno": 18,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKvIsi3pZSe+GlMRQa40XyWhcnRg1xdfiqFks83D9RrUKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmFmMjJjOGI3YTU5NDllZjg2OTRjNDUwNmI4ZDE3Yzk2ODVjOWQxODM1YzVkN2UyYTg1OTJjZjM3MGZkNDZiNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmFmMjJjOGI3YTU5NDllZjg2OTRjNDUwNmI4ZDE3Yzk2ODVjOWQxODM1YzVkN2UyYTg1OTJjZjM3MGZkNDZiNTBhIiwidWlkIjoiMzMyOTNjMWFmY2YzZWJkNzNhOGYyYzk5N2UwMTE4MTkiLCJ1c2VybmFtZSI6Im5yZWJodW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5ucmViaHVuLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzA5NzczNzUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDk3NzI4NiwiaGFzaCI6IjMzZjljMjk0YzJhZThjMDc5YmQwYmU1ZWFjNmZhNGQxOTBkZDEyMmUwMjQzMjM3MmFiMTRhZjJjNTIzMTkwYjEwNTY4N2ZhODEyYWI2YjQzZmY0ZTBmNWU0MjUwMzRiMDUwOTY0OWJiYTc5ZTFkNTE3YzZhNzg2MzNlZmRjMTA1Iiwic2Vxbm8iOjU3MjczN30sInByZXYiOiI3NTMxMzE3MTBhNjI5MTE3MDhiMjYzM2VkZTBjYmEzZGU3ZWFlY2Q2ZDc1YjAyNDFjYTQxMmEzMjBlYWE1YTIwIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RADuIr5c8GFhCsc32wcEbEyGhr/fkjxb1NV2D9ZZJ5PY/GrefrRydAwWFRO1czNuUQsH74/w2rG/XoiLAtvTxMA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIhEpgg4ucKRDwliJtFHLNSVrrCmUFf3zfKgjSAhVObEo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMQBAnicbZN7bBRFHMevYsXW8lQIEEhhISSUtuzO7OzOXKNVwPJOSjFEBD3mtb2j
+d7ft3bWlNIgU1ChQaAIhPAI9wJSAaAm1hQhEGkqAQvEw4IOAvIzBgJWnPEScayAm
+xv1nsrvf3/f3/X1m5nCPbp70lJHr664OWvrnnpT21vnlnncezWuu1pgrqjRvtVYi
+uxYZFDIa85UEhObVdAPogDoAcMxsiohJpIMtYnIT6RbDwrA5sTDiRBgYIo6ELQHF
+iADuQFt3hGkxpFMtW3MC4WIZKY0EwjFlSyGgXOeMY2GbGApHIGbbBgAWocSQpkGx
+6dgMqkK/G01WqHCMRmVuwFXf1IuvK97/6J/l1g2aNESE6ZZjEp0T3QKMQweaDpC2
+AJBjQKFjGI60kKE7VNhISiCYwbkpDdPuyl3eZQchIJAb1FFjSSZsSLEDOCG21A0D
+GyQpjMpImIakUocjkvnLw9rCbC0kIyVB6Yu4bizJlscCSYWBgGUCC9hAzUejfl9I
+xqgqNB0LCQYYwVxnyLIhl8QQNnEwoYxCIpCNdcmghNLhUhjMRBjYjoC2aUrLxCpG
+VJaFXc0LFFYAgUoQkRVuiUw2jwaKFbWo5p2tWdAiQAgKTAcRosw5YgbBusWFhJQA
+aFu2tBxFw0CQmaaFMLRUW0gYc7BOdEd7d2GyWaQiwLvMk9v0dPzKysrcpwhyuRtS
+oUojbszlblD99MdipVFvEk2sqrRLLZnvqY+PBcJCnRNVUSEj0YAbVqiU8j/UiJmt
+yfmlgYj0BZIKZFtYV0+yj6xQlmr/LGabTApTMMwMjBARJgOCQt1khGPpIKVB2LCg
+rmMTUwmFbkhMkOU4JvsXo4FVTlqsPBW8MI2VR6S2sPXQnOc9KemeF1KfS14gT3pa
+72fX6pei3p76SPzw5RubhnYM9zM890jPn6ZOrdeDwe6NGSMKJuXunhE6PeZJfGMG
+atyW1fx9orVoJp236N7w/lpg3f5TqXln+2at3vVBWUFm7eSJj2eeXhpfcu1mZN9r
+Cdpz8glweP8n1v10tHsNOeHktLifvnz0u6ss0XQjcX7WyoPHRr3iM+7NTqtdMSpr
+bPwRta7UHyks+HL69o1VKY3tYGbnsNCpVp1vmfbXLu+I4sJfP3p4ZvnJKUc375o6
+ejLKaP2bo8VXj/84YUi/W82j749tulWX331RWXSM9nb9+OCNc431Z/jl3x9ULVvb
+NmnwgL3j+uyFfXOrJ7TkvupdsKmsuu/EbwtrUqdd6sjqf14/eyAzY9Vv2LhZ1G/c
+9NPT5qf2/rqpcFjNUN/GJyfn7GhZsSBn28Caddai9ir7+KxBexuKbpddrih5c7YW
+djdobQlZ0WfEwZ8/vGs23P3qVqh5f6Ju4Kq1I/Nvv/6gdsmFnJy8xeWd2Uu0t450
+7jz1xcq2i+Q2vebppBWbB+SP65izdPkdMsMemP/Hzh8qZ9zzL1vdtKfjvY/XRzPS
+1nTmJUa/2NC+ra0u47OtrFvmmuvHC6fv6zXF13FxyPbxtYMKBm956LNH+uMLdhw6
+UN5+c/P5z3vVnziaPrGl8cq+wW/MPfv+1vi54Xd6PD62uspzYM+VtJqCtZdmNeRl
+yp7xLSnXvwleqHsp/X70H2ypA/Y=
+=X8Gn
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
