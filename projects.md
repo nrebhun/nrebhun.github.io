@@ -4,6 +4,47 @@ title: Projects
 permalink: /projects/
 ---
 
+## [Reactathon] 2018
+---
+#### **React Native, AWS, GraphQL** | *24 - 25 March 2018* |  Github HQ, San Francisco, CA
+[NoTow] is the result of the remarkable effort of [Chris McDermut], [Maria Nguyen], [Taylor Harwood]
+, [Mariia Rudenko], [Gabe Levasseur], with a sprinkling of assistance from yours truly. The app,
+written in [React Native], prompts the user to take a picture of a street sign, and will tell them
+whether or not one can park there worry-free!
+
+How does it work, you ask? It's pretty straightforward!
+
+The user's GPS coordinates, along with a timestamp, are stored with [GraphQL], which was a dream to
+set up using an amazing new service, [Hasura]. This information is captured in our MVP with the
+intent to eventually build out a feature which alerts the user when they should head back to their
+vehicle so they don't get a ticket.
+
+Next, the image is sent to a text-parsing [lambda], which communicates the image to Amazon's
+[Rekognition] API, does a bit of data massaging/sanitization, and forwards some of the
+freshly-parsed image text along to another lambda, which serves as a "rules engine." Separating
+this first step from the "rules engine" gave us the opportunity to tell the user that we were
+unable to parse text from the image before we even attempt to process anything, shortening the wait
+time for users, and preventing us from running data through our second lambda unnecessarily.
+
+Finally, assuming we were able to get text from the user's image, our "rules engine" lambda parses
+through the sign's text, and pretty much just spits out two pieces of information:
+
+1. a boolean representing whether or not the user is able to park there right now, and
+2. a string stating approximately how much time they are able to park there before they might get a
+ticket.
+
+This information is passed back to the original lambda, which then responds to the front end of our
+application with the information it needs to help the user make the right choice.
+
+Ultimately, we placed second among a total of 21 submissions, something I am immensely proud of,
+especially considering it was the first competitive hackathon in which my work played a nontrivial
+part (I wrote that rules engine I mentioned earlier.) I am also extremely proud of my team; for
+many of them, this was their first hackathon experience, and despite it they all made significant
+contributions to the project.
+
+![](/assets/notow-team-interview.jpg "Congrats, team! 😁 You earned it!")
+
+
 ## Adventure Assistant
 ---
 
@@ -16,7 +57,7 @@ experience and expectations of these kinds of games, I feel that a primary objec
 storytelling. I plan to eventually add a section of my website dedicated to explaining Adventure
 Assistant in greater detail.
 
-In the meantime, check out [Adventure Assistant on GitHub]
+In the meantime, check out [Adventure Assistant on Gtihub]
 
 
 <!-- Turn into a Post at a later date
@@ -108,7 +149,7 @@ and use this unique skill to complete each level.
 
 I learned tons, had a blast, and did so with great company. I can't wait to do this again.
 
-Check out [Earth<->Krethys on GitHub]!
+Check out [Earth<->Krethys on Gtihub]!
 
 ## Machine Learning Research Project
 ---
@@ -159,7 +200,7 @@ areas stay safe.
 
 Our submission took home an API award from [tokbox], for best use of their OpenTok API!
 
-Check out [LivePort on GitHub]!
+Check out [LivePort on Gtihub]!
 
 ---
 
@@ -169,24 +210,38 @@ Check out [LivePort on GitHub]!
 [@b_cker]: https://twitter.com/b_cker
 [@BethhhJB]: https://twitter.com/BethhhJB
 [@FredericJacobs]: https://twitter.com/FredericJacobs
+[Chris McDermut]:
+[Maria Nguyen]:
+[Taylor Harwood]:
+[Mariia Rudenko]:
+[Gabe Levasseur]:
 
 [//]: # (Websites / Project links!)
 
+[//]: # (Reactathon 2018)
+[Reactathon]:https://www.reactathon.com/hackathon
+[NoTow]: https://www.pleasenotow.com
+[React Native]: https://facebook.github.io/react-native/
+[GraphQL]: http://graphql.org
+[Hasura]: https://hasura.io
+[lambda]: https://aws.amazon.com/lambda/
+[Rekognition]: https://aws.amazon.com/rekognition/
+
 [//]: # (Adventure Assistant)
-[Adventure Assistant on GitHub]: https://github.com/nrebhun/AdventureAssistant
+[Adventure Assistant on Gtihub]: https://github.com/nrebhun/AdventureAssistant
 
 [//]: # (Hour of Code 2015)
 [Code.org]: https://www.code.org
 
 [//]: # (BattleHack Los Angeles 2015)
 [Braintree]: https://www.braintreepayments.com
-[charitable.com on GitHub]: https://github.com/nrebhun/charitable.com
+[charitable.com on Gtihub]: https://github.com/nrebhun/charitable.com
 
 [//]: # (Apple Lecture)
 [download the slides]: https://www.dropbox.com/sh/qxalap2n5j07vgn/AAAMjSHV83sr5Xy2gdD_9j16a?dl=1
 
 [//]: # (LD30)
-[Earth<->Krethys on GitHub]: https://github.com/nrebhun/Earth-Krethys
+[Earth<->Krethys on Gtihub]: https://github.com/nrebhun/Earth-Krethys
 
 [//]: # (Research Project)
 [Rate My Professors]: http://www.ratemyprofessors.com
@@ -200,5 +255,5 @@ Check out [LivePort on GitHub]!
 [Hack for Change]: https://hackforchange.org/
 [Change.org]: https://change.org/
 [half a dozen extremely talented people]: https://twitter.com/liveporting/status/229735173120458752
-[LivePort on GitHub]: https://github.com/FredericJacobs/LivePort-iOS
+[LivePort on Gtihub]: https://github.com/FredericJacobs/LivePort-iOS
 [tokbox]: https://tokbox.com
