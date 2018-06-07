@@ -210,11 +210,11 @@ Check out [LivePort on Gtihub]!
 [@b_cker]: https://twitter.com/b_cker
 [@BethhhJB]: https://twitter.com/BethhhJB
 [@FredericJacobs]: https://twitter.com/FredericJacobs
-[Chris McDermut]:
-[Maria Nguyen]:
-[Taylor Harwood]:
-[Mariia Rudenko]:
-[Gabe Levasseur]:
+[Chris McDermut]: https://github.com/chrismcdermut
+[Maria Nguyen]: https://github.com/mariawhen
+[Taylor Harwood]: https://github.com/taylorharwood
+[Mariia Rudenko]: https://github.com/rudenkom
+[Gabe Levasseur]: https://github.com/gabel0287
 
 [//]: # (Websites / Project links!)
 
