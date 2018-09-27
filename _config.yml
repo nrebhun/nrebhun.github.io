@@ -7,10 +7,13 @@ description: >
  Welcome, digital adventurer!
  I encourage you to check out my projects page!
 baseurl: ""
-url: "http://www.nrebhun.com"
+url: "https://www.nrebhun.com"
 twitter_username: nrebhun_
 github_username:  nrebhun
 disclaimer: <h5>Any opinions expressed on this corner of the internet are my own, and don't necessarily represent those of my employer.</h5>
+
+# Site variables
+places: "Italy"
 
 # Build settings
 markdown: kramdown

@@ -1,7 +1,6 @@
 <header class="site-header">
 
   <div class="wrapper">
-
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.home_title }}</a>
 
     <nav class="site-nav">
@@ -15,7 +14,7 @@
       <div class="trigger">
         {% for page in site.pages %}
             {% if page.title %}
-                {% if page.title != 'Invisible' %}
+                {% if page.categories != "Invisible" %}
                     <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 {% endif %}
             {% endif %}
