@@ -1,6 +1,6 @@
 ---
 layout: adventure-feed
 permalink: /adventures/Italy
-categories: Invisible
+categories: [Invisible]
 tags: [Adventure, Italy]
 ---

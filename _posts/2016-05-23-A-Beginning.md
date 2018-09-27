@@ -2,7 +2,7 @@
 layout: post
 title: "A Beginning"
 date: 2016-05-23 16:57:26
-categories: Career, Software Engineering
+categories: [Career, Software Engineering]
 ---
 
 After several months of applications, interviews and fantastic learning experiences, I have
@@ -14,5 +14,5 @@ it will be the last Apple sees of me. My start date as an Automation Engineering
 Bradstreet] is June 15th, which gives me enough time to visit friends in the Bay Area and attend my
 graduation ceremony on June 12th before getting started.
 
-[//]: # (External Links)
-[Dun & Bradstreet]: http://www.dnb.com/
+[//]: # 'External Links'
+[dun & bradstreet]: http://www.dnb.com/

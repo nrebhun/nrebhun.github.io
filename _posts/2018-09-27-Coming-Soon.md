@@ -2,7 +2,7 @@
 layout: adventure-post
 title: "Coming soon!"
 date: 2018-09-27 10:48:00
-categories: Career, Software Engineering
+categories: [Career, Software Engineering]
 tags: [Adventure, Italy]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Projects Page Updated!"
 date: 2015-01-23 14:40:36
-categories: website update
+categories: [website, update]
 ---
 
 Well, my first draft of the [Projects](/projects/) page is done! I'm quite satisfied with it so far, though I'm

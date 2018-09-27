@@ -2,7 +2,7 @@
 layout: post
 title: "RSS Readers"
 date: 2018-09-27 10:50:00
-categories: Technology, Tools
+categories: [Technology, Tools]
 ---
 
 Hey there!
