@@ -20,7 +20,8 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/adventure-feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  {% assign feedUrl = locations[0] | prepend: "adventure-" | append: "-feed.xml" %}
+  <p class="rss-subscribe">subscribe <a href="{{ feedUrl | prepend: site.baseurl }}">via RSS</a></p>
 
   <a href="/adventures/"> ⬅️ Back to Adventures</a>
 </div>
