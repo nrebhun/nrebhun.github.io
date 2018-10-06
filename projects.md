@@ -42,7 +42,7 @@ part (I wrote that rules engine I mentioned earlier.) I am also extremely proud 
 many of them, this was their first hackathon experience, and despite it they all made significant
 contributions to the project.
 
-![](/assets/notow-team-interview.jpg "Congrats, team! 😁 You earned it!")
+![](/assets/projects/notow-team-interview.jpg "Congrats, team! 😁 You earned it!")
 
 
 ## Adventure Assistant

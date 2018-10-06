@@ -4,9 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
-![res-v2p.png](/assets/res-v2p.png)
+![res-v2p.png](/assets/projects/res-v2p.png)
 
-#### Looking to [download as a pdf](/assets/res-v2p.pdf)?
+#### Looking to [download as a pdf](/assets/projects/res-v2p.pdf)?
 
 ---
 

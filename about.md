@@ -7,7 +7,7 @@ permalink: /about/
 <img style="max-width: 50%;
     float: right;
     height: auto"
-    src="/assets/about-me-2.jpg">
+    src="/assets/about/about-me-2.jpg">
 
 Hi, I'm Nick! I hail from Los Angeles, have been programming since I was about 16, and graduated
 from CSU East Bay with a B.S. in Computer Science.
@@ -23,7 +23,7 @@ before moving on to my latest adventure.
 More recently, I have accepted an offer of employment from [Apple], and I couldn't be more excited!
 Engineering at Apple has long been my dream... I can't wait to see what the future holds.
 
-I am endlessly curious, and fuel said curiosity by tinkering on one of far too many personal
+I am endlessly curious, and fuel said curiosity by tinkering with one of far too many personal
 projects, and researching topics of interest such as, in no particular order: physics, space
 exploration, neuroscience, virtual reality, artificial intelligence, operating systems, etc...
 
