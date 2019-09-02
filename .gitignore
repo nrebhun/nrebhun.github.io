@@ -1,6 +1,6 @@
+# Project artifacts
 _site/
 .sass-cache
-
-# OS-specific #
-###############
+.jekyll-metadata
+# OS-specific
 .DS_Store

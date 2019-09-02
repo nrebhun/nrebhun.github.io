@@ -35,7 +35,7 @@ Also, I enjoy making games, and participate in Ludum Dare every now and then. My
 was Hack for Change 2012, where I assisted with the creation of LivePort. You can see more about my
 projects [here](/projects/)!
 
-I love my girlfriend Gabby very much!
+I love my fiancée Gabby very much!
 
 [//]: # 'External Links'
 [dun & bradstreet]: https://www.dnb.com/
