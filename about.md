@@ -7,7 +7,7 @@ permalink: /about/
 <img style="max-width: 50%;
     float: right;
     height: auto"
-    src="/assets/about/about-me-2.jpg">
+    src="/assets/about/about-me-3.jpeg">
 
 Hi, I'm Nick! I hail from Los Angeles, have been programming since I was about 16, and graduated
 from CSU East Bay with a B.S. in Computer Science.
