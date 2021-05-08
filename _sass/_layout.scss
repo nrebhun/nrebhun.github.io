@@ -233,3 +233,23 @@
         }
     }
 }
+
+/**
+ * Special
+ */
+.centered-png {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+
+    width: -webkit-calc(75% - (#{$spacing-unit} / 2));
+    width: calc(75% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($on-palm) {
+    .centered-png {
+        float: center;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width: calc(100% - (#{$spacing-unit} / 2));
+    }
+}
