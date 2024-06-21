@@ -57,7 +57,7 @@ experience and expectations of these kinds of games, I feel that a primary objec
 storytelling. I plan to eventually add a section of my website dedicated to explaining Adventure
 Assistant in greater detail.
 
-In the meantime, check out [Adventure Assistant on Gtihub]
+In the meantime, check out [Adventure Assistant on Github]
 
 
 <!-- Turn into a Post at a later date
@@ -149,7 +149,7 @@ and use this unique skill to complete each level.
 
 I learned tons, had a blast, and did so with great company. I can't wait to do this again.
 
-Check out [Earth<->Krethys on Gtihub]!
+Check out [Earth<->Krethys on Github]!
 
 ## Machine Learning Research Project
 ---
@@ -200,7 +200,7 @@ areas stay safe.
 
 Our submission took home an API award from [tokbox], for best use of their OpenTok API!
 
-Check out [LivePort on Gtihub]!
+Check out [LivePort on Github]!
 
 ---
 
@@ -228,20 +228,20 @@ Check out [LivePort on Gtihub]!
 [Rekognition]: https://aws.amazon.com/rekognition/
 
 [//]: # (Adventure Assistant)
-[Adventure Assistant on Gtihub]: https://github.com/nrebhun/AdventureAssistant
+[Adventure Assistant on Github]: https://github.com/nrebhun/AdventureAssistant
 
 [//]: # (Hour of Code 2015)
 [Code.org]: https://www.code.org
 
 [//]: # (BattleHack Los Angeles 2015)
 [Braintree]: https://www.braintreepayments.com
-[charitable.com on Gtihub]: https://github.com/nrebhun/charitable.com
+[charitable.com on Github]: https://github.com/nrebhun/charitable.com
 
 [//]: # (Apple Lecture)
 [download the slides]: https://www.dropbox.com/sh/qxalap2n5j07vgn/AAAMjSHV83sr5Xy2gdD_9j16a?dl=1
 
 [//]: # (LD30)
-[Earth<->Krethys on Gtihub]: https://github.com/nrebhun/Earth-Krethys
+[Earth<->Krethys on Github]: https://github.com/nrebhun/Earth-Krethys
 
 [//]: # (Research Project)
 [Rate My Professors]: http://www.ratemyprofessors.com
@@ -255,5 +255,5 @@ Check out [LivePort on Gtihub]!
 [Hack for Change]: https://hackforchange.org/
 [Change.org]: https://change.org/
 [half a dozen extremely talented people]: https://twitter.com/liveporting/status/229735173120458752
-[LivePort on Gtihub]: https://github.com/FredericJacobs/LivePort-iOS
+[LivePort on Github]: https://github.com/FredericJacobs/LivePort-iOS
 [tokbox]: https://tokbox.com

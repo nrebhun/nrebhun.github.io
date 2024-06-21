@@ -4,10 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
-![res-v2p.png](/assets/resume/res-v2p.png)
+![res-v3.png](/assets/resume/res-v3.png)
 
-#### Looking to [download as a pdf](/assets/resume/res-v2p.pdf)?
+#### Looking to [download as a pdf](/assets/resume/res-v3.pdf)?
 
 ---
 
-###### v2.2.1; Last Updated: June 2018
+###### v3.3; Last Updated: May 2024
