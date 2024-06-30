@@ -267,12 +267,14 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.8.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   github-pages
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.0.2

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: FTB Continuum
-categories: [Invisible]
-tags: [FTB, Continuum, Log]
+title: "FTB Continuum"
+categories: [FTB, Continuum, Log]
+tags: [Invisible]
 ---
 
 _Log ordered by recency (newest first)_
