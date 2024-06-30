@@ -1,10 +1,9 @@
 ---
 layout: post
-permalink: /gaming/mc/continuum
+title: FTB Continuum
 categories: [Invisible]
-tags: [Minecraft, Feed The Beast, Continuum, Log]
+tags: [FTB, Continuum, Log]
 ---
-# FTB Continuum 
 
 _Log ordered by recency (newest first)_
 
